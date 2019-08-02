@@ -1,2 +1,2 @@
-# cygnus-config
-config files for cygnus services
+# microservices-config
+Archivos de configuracion para microservicios
